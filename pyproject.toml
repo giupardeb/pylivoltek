@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "pylivoltek"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+certifi = "^14.05.14"
+six="^1.10"
+python_dateutil="^2.5.3"
+setuptools="^21.0.0"
+urllib3="^1.15.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
