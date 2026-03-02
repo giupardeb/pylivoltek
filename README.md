@@ -13,7 +13,7 @@ You can install directly from Github
 ```sh
 pip install git+https://github.com/adamlonsdale/pylivoltek.git
 ```
-(you may need to run `pip` with root permission: `sudo pip install git+https://github.com/adamlonsdale/pylivoltek.git`)
+(you may need to run `pip` with root permission: `sudo pip install git+https://github.com/giupardeb/pylivoltek.git`)
 
 Then import the package:
 ```python
